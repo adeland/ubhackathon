@@ -1,0 +1,8 @@
+python-dotenv
+flask
+pymongo
+PyJWT
+flask-cors
+pandas
+scikit-learn
+# Add any other dependencies you might have
